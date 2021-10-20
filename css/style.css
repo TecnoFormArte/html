@@ -1,0 +1,38 @@
+h1
+{
+	color: blue;
+	font-weight: bold;
+	position: relative;
+	left: 180px;
+	box-shadow: 5px 5px 5px 5px gray;
+
+}
+
+h2
+{
+	color: green;
+}
+
+.mih2
+{
+  color: orange;
+}
+
+.contenedor
+{  
+	border-radius: 10px 10px 10px 10px;
+	position: relative;
+	border : 1px solid blue;
+}
+
+.contenedor1
+{
+	border-radius: 10px 10px 10px 10px;
+	position: relative;
+	border : 1px solid green;
+}
+
+p
+{
+	color: blue;
+}
